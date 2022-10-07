@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/omer-erturk/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/omer-erturk/Projects/BubbleSort/main.swift": {
+    "dependencies": "/home/omer-erturk/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/omer-erturk/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/omer-erturk/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/omer-erturk/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
